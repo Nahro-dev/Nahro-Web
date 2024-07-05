@@ -7,7 +7,6 @@
 }
 body
 {
-    
     color: #ededed;
 }
 .header
@@ -42,7 +41,6 @@ body
 .navbar a:hover{
     color:#0ef;
 }
-
 .home {
     position: relative;
     width: 100%;
